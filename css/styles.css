@@ -1,0 +1,155 @@
+#title {
+    background-color: #ff4c68;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    overflow: hidden;
+
+}
+
+.container-fluid {
+    padding: 3% 15% 3% 15%;
+}
+
+.heading {
+    padding-top: 4.5rem;
+   font-weight: 900;
+   font-size: 3.75rem;
+   line-height: 1.5;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+    word-spacing: 10px;
+}
+
+.iphone {
+    width: 60%;
+        transform: rotate(25deg);
+    margin-bottom: -320px;
+}
+
+.nav-item {
+    padding: 0 18px;
+    font-size: 1.5rem;
+}
+
+.navbar-collapse {
+    margin-left: auto;
+}
+
+.fa-3x {
+    color: #ef8172;
+}
+
+#features {
+    text-align: center;
+}
+
+hr {
+    margin: 0;
+    border-style: none;
+    color: white;
+}
+
+.heading3f {
+    font-weight: bold;
+    font-size: 1.5rem;
+} 
+
+#feature1 {
+    height: 200px;
+}
+
+.fa-3x:hover {
+    color: #ff4c68;
+}
+
+.feature-text {
+    color: #8f8f8f;
+}
+
+/*Testimonial section*/
+
+#testimonials {
+
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+h2 {
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#testimonial-image {
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+/* Press */
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+#pricing {
+    padding: 100px;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    font-size: 3rem;
+    text-align: center;
+}
+
+#dog-love {
+    font-family: 'Montserrat' , sans-serif;
+    font-weight: 900;
+    color: white;
+    font-size: 3rem;
+}
+
+/* Footer */
+
+#footer {
+    text-align: center;
+    font-size: 1rem;
+    word-spacing: 10px;
+    margin: 5% 3% 5% 0;
+}
+
+#copyright {
+    word-spacing: 0;
+}
+
+.fa-2x:hover {
+    color: #ff4c68;
+}
